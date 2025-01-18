@@ -1,2 +1,3 @@
-http://whatplusapp.com/
-<a href="https://whatplusapp.com/" target="_blank">WhatsApp Plus</a>.
+# My Project
+
+This is my project. Learn more by visiting [WhatsApp Plus](http://whatplusapp.com/).
