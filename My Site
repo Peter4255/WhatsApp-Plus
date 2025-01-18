@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Visit WhatsApp Plus for enhanced features and usability for your messaging needs.">
+    <title>WhatsApp Plus - Enhanced Messaging Features</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to WhatsApp Plus</h1>
+    </header>
+    <main>
+        <section>
+            <h2>About WhatsApp Plus</h2>
+            <p>
+                WhatsApp Plus offers a feature-rich messaging experience designed to improve your communication. 
+                Explore enhanced features and customization options to make your chats more efficient and enjoyable.
+            </p>
+            <h2>Visit Our Website</h2>
+            <p>
+                Discover all the features and benefits by visiting our official website:
+                <a href="https://whatplusapp.com/" target="_blank">WhatsApp Plus</a>.
+            </p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 WhatsApp Plus. All rights reserved.</p>
+    </footer>
+</body>
+</html>
