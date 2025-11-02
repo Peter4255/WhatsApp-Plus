@@ -1,3 +1,3 @@
 # My Project
 
-This is my project. Learn more by visiting [WhatsApp Plus](http://whatplusapp.com/).
+This is my project. Learn more by visiting [WhatsApp Plus](http://waplusapps.com/).
